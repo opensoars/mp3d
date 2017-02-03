@@ -1,6 +1,6 @@
 # mp3d
 
-3D audio spectrum visualization.
+3D audio spectrum visualization. (WIP idea)
 
 <!---
 [![Build Status](https://travis-ci.org/opensoars/mp3d.svg)](https://travis-ci.org/opensoars/mp3d)
